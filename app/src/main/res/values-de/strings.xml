@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Update</string>
+    <string name="not_installed">Nicht installiert</string>
+    <string name="check_update">Update prüfen</string>
+    <string name="updating">Wird aktualisiert. Warten Sie bitte eine Sekunde.</string>
+    <string name="release_not_found">Release nicht gefunden</string>
+    <string name="checking_updates">Update wird geprüft</string>
+    <string name="no_updates">Kein Update</string>
+    <string name="updates_available">Update verfügbar</string>
+    <string name="connection_error">Verbindung mit Update-Server konnte nicht hergestellt werden. Bitte prüfen Sie den Status der Internetverbindung.</string>
+    <string name="msg_no_connection">Keine Verbindung</string>
+    <string name="check_wifi">Wi-Fi prüfen</string>
+    <string name="msg_ok_connection">Wi-Fi oder Ethernet-Verbindung prüfen .. OK</string>
+    <string name="version_installed">Aktuelle Version</string>
+    <string name="new_version">Neue Version</string>
+    <string name="check">Check</string>
+    <string name="update">Update</string>
+    <string name="ip_app_update">IP App Update</string>
+    <string name="launcher_app_update">Launcher AppUpdate</string>
+    <string name="manual_update">Manual App Update</string>
+    <string name="tdrc_app_update">TDRC App Update</string>
+    <string name="tdru_app_update">TDRU App Update</string>
+    <string name="update_app_update">Update App Update</string>
+    <string name="viewer_app_update">Viewer App Update</string>
+    <string name="packet_app_update">Packet App Update</string>
+    <string name="manual_app_update">Manual App Update</string>
+    <string name="network_test_tools_update">Network Test Tools Update</string>
+
+</resources>
